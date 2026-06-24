@@ -1,2 +1,3 @@
-# webscraping
-this code will scrap the web site you want and give you the information you need
+# web-scraping
+this code will get heading, links, keywords and paragraph. 
+for each of those will create a csv file and save it 
